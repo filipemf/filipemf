@@ -2,8 +2,6 @@
 
 <p>Sempre disposto a aprender mais e fascinado por todas as formas de tecnologia. Com um interesse especial em programação. 😁</p> 
 
-- 🔭 Estou atualmente trabalhando em: **TCC** 🚧
-
 - 🌱 Atualmente estou aprendendo **CyberSecurity, TypeScript, Redux.**
 
 ## Conectar comigo
