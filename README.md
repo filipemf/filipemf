@@ -2,7 +2,8 @@
 
 <p>Sempre disposto a aprender mais e fascinado por todas as formas de tecnologia. Com um interesse especial em programação. 😁</p> 
 
-- 🌱 Atualmente estou aprendendo **CyberSecurity, TypeScript, Redux.**
+- Trabalhando com Redes
+- 🌱 Atualmente estou aprendendo **CyberSecurity e TypeScript.**
 
 ## Conectar comigo
 <p align="top-left">
