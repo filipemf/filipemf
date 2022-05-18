@@ -2,7 +2,7 @@
 
 <p>Always excited to learn more. Fascinated by all forms of technology, but with an special interest in programming. 😁</p> 
 
-- Working with Network
+- Developer at T-Systems
 - 🌱 Learning **TypeScript and Angular**
 
 ## Connect with me!
