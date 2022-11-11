@@ -2,7 +2,7 @@
 
 <p>Always excited to learn more. Fascinated by all forms of technology, but with an special interest in programming. 😁</p> 
 
-- Developer at T-Systems
+- Developer at Deutsche Telekom Global Business Solutions Brasil
 - 🌱 Learning **TypeScript and Angular**
 
 ## Connect with me!
