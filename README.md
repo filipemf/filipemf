@@ -2,7 +2,7 @@
 
 <p>Always excited to learn more. Fascinated by all forms of technology, but with an special interest in programming. 😁</p> 
 
-<p>Check out my website <a href="https://filipeferreira.me/" target="_blank" rel="noopener noreferrer">filipeferreira.me</a></p>
+<p>Check out my website <a target="_blank" rel="noopener noreferrer" href="https://filipeferreira.me/">filipeferreira.me</a></p>
 
 - Developer at Deutsche Telekom Global Business Solutions Brasil
 - 🌱 Learning **TypeScript and Angular**
