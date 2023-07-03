@@ -15,6 +15,7 @@
 <br>
 
 ## Technologies
+- Java (Spring)
 - JavaScript
 - Frameworks (ReactJS, React Native)
 - Python
