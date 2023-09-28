@@ -5,7 +5,7 @@
 <p>Check out my website <a target="_blank" rel="noopener noreferrer" href="https://filipeferreira.me/">filipeferreira.me</a></p>
 
 - Developer at Deutsche Telekom Global Business Solutions Brasil
-- Mainly Java, Python and C#
+- Mainly **Java, Python and C#**
 - 🌱 Learning **TypeScript and Angular**
 
 ## Connect with me!
