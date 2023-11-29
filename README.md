@@ -4,9 +4,8 @@
 
 <p>Check out my website <a target="_blank" rel="noopener noreferrer" href="https://filipeferreira.me/">filipeferreira.me</a></p>
 
-- Developer at Deutsche Telekom Global Business Solutions Brasil
-- Mainly **Java, Python and C#**
-- 🌱 Learning **TypeScript and Angular**
+- Developer at Netcracker Technology
+- Mainly **React, React Native and Angular**
 
 ## Connect with me!
 <p align="top-left">
@@ -20,7 +19,7 @@
 ## Technologies
 - Java (Spring)
 - JavaScript
-- Frameworks (ReactJS, React Native)
+- React, React Native, Angular
 - Python
 - C# (.NET)
 - Google Cloud and AWS
