@@ -11,7 +11,7 @@
 <p align="top-left">
   
 #### Linkedin:      <a href="https://www.linkedin.com/in/filipemarquesf/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="filipe-marques-ferreira-7920411b6" height="30" width="30" /></a>
-#### Instagram:       <a href="https://instagram.com/filipemarquesf1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="filipemarquesf_" height="30" width="30" /></a>
+#### Instagram:       <a href="https://instagram.com/filipemarquesf1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="filipemarquesf1" height="30" width="30" /></a>
 </p>
 
 <br>
