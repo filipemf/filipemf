@@ -24,5 +24,3 @@
 - Google Cloud and AWS
 - SQL and NO-SQL
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=filipemf&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
