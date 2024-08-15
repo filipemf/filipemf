@@ -5,7 +5,7 @@
 <p>Check out my website <a target="_blank" rel="noopener noreferrer" href="https://filipeferreira.me/">filipeferreira.me</a></p>
 
 - Developer at Netcracker Technology
-- Mainly **React, React Native and Angular**
+- Mainly **Java, React and Python**
 
 ## Connect with me!
 <p align="top-left">
@@ -17,11 +17,10 @@
 <br>
 
 ## Technologies
-- Java (Spring)
+- Java
 - JavaScript
-- React, React Native, Angular
+- React
 - Python
-- C# (.NET)
 - Google Cloud and AWS
 - SQL and NO-SQL
 
