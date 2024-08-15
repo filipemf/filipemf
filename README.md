@@ -1,6 +1,6 @@
 <h1> Olá!/Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<p>Always excited to learn more. Fascinated by all forms of technology, but with an special interest in programming. 😁</p> 
+<p>Always excited to learn more. Fascinated by all forms of technology, but with a special interest in programming. 😁</p> 
 
 <p>Check out my website <a target="_blank" rel="noopener noreferrer" href="https://filipeferreira.me/">filipeferreira.me</a></p>
 
